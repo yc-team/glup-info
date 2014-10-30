@@ -9,3 +9,4 @@ glup-info
 4. [Copying Files From One Folder To Another In Gulp.js](http://ilikekillnerds.com/2014/07/copying-files-from-one-folder-to-another-in-gulp-js/)
 5. [npmawesome: 9 gulp.js plugins for a great build system](http://blog.nodejitsu.com/npmawesome-9-gulp-plugins/)
 6. [Quick intro to Gulp.js](https://www.codefellows.org/blog/quick-intro-to-gulp-js)
+7. [pass locals in gulp-jade](https://github.com/phated/gulp-jade/issues/9)
