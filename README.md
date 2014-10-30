@@ -13,3 +13,4 @@ glup-info
 8. [Jade, gulp-jade locals update](http://stackoverflow.com/questions/24258840/jade-gulp-jade-locals-update)
 9. [Minify your final CSS file using Gulp.js](http://alfanso.com/minify-your-final-css-file-using-gulp-js/)
 10. [gulp book](http://david.nowinsky.net/gulp-book/)
+11. [Looking for way to copy files in gulp and rename based on parent directory](http://stackoverflow.com/questions/21224252/looking-for-way-to-copy-files-in-gulp-and-rename-based-on-parent-directory)
