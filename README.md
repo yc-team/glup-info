@@ -11,3 +11,4 @@ glup-info
 6. [Quick intro to Gulp.js](https://www.codefellows.org/blog/quick-intro-to-gulp-js)
 7. [pass locals in gulp-jade](https://github.com/phated/gulp-jade/issues/9)
 8. [Jade, gulp-jade locals update](http://stackoverflow.com/questions/24258840/jade-gulp-jade-locals-update)
+9. [Minify your final CSS file using Gulp.js](http://alfanso.com/minify-your-final-css-file-using-gulp-js/)
