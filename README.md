@@ -15,3 +15,4 @@ glup-info
 10. [gulp book](http://david.nowinsky.net/gulp-book/)
 11. [Looking for way to copy files in gulp and rename based on parent directory](http://stackoverflow.com/questions/21224252/looking-for-way-to-copy-files-in-gulp-and-rename-based-on-parent-directory)
 12. [Output filename different than input](https://github.com/gulpjs/gulp/issues/34)
+13. [Open call for plugins](https://github.com/gulpjs/gulp/issues/37)
