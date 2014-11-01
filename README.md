@@ -17,3 +17,4 @@ glup-info
 12. [Output filename different than input](https://github.com/gulpjs/gulp/issues/34)
 13. [Open call for plugins](https://github.com/gulpjs/gulp/issues/37)
 14. [Yeoman group Review Gulp](https://github.com/yeoman/yeoman/issues/1232)
+15. [Getting Started With Gulp](http://travismaynard.com/writing/getting-started-with-gulp)
