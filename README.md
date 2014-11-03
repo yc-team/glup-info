@@ -22,3 +22,4 @@ glup-info
 17. [Gulp-compass compressing sass not working](http://stackoverflow.com/questions/25808128/gulp-compass-compressing-sass-not-working)
 18. [Gulp can't seem to find compass mixins](http://stackoverflow.com/questions/24745932/gulp-cant-seem-to-find-compass-mixins)
 19. [gulpjs doc](https://github.com/gulpjs/gulp/blob/master/docs/API.md#async-task-support)
+20. [Building With Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
