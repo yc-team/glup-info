@@ -19,3 +19,4 @@ glup-info
 14. [Yeoman group Review Gulp](https://github.com/yeoman/yeoman/issues/1232)
 15. [Getting Started With Gulp](http://travismaynard.com/writing/getting-started-with-gulp)
 16. [Gulp的目标是取代Grunt](http://www.infoq.com/cn/news/2014/02/gulp)
+17. [Gulp-compass compressing sass not working](http://stackoverflow.com/questions/25808128/gulp-compass-compressing-sass-not-working)
