@@ -26,3 +26,4 @@ glup-info
 21. [Automatically Load Gulp Plugins with gulp-load-plugins](http://andy-carter.com/blog/automatically-load-gulp-plugins-with-gulp-load-plugins)
 22. [How To: Basic Tasks in Gulp.js](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
 23. [Keep your Gulpfile manageable: the Gulp plugins you need to know](http://pem-musing.blogspot.hk/2014/02/keep-your-gulpfile-manageable-gulp.html)
+24. [Why use gulp-load plugin instead of gulp.task()?](http://stackoverflow.com/questions/23502772/why-use-gulp-load-plugin-instead-of-gulp-task)
