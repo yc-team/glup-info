@@ -23,3 +23,4 @@ glup-info
 18. [Gulp can't seem to find compass mixins](http://stackoverflow.com/questions/24745932/gulp-cant-seem-to-find-compass-mixins)
 19. [gulpjs doc](https://github.com/gulpjs/gulp/blob/master/docs/API.md#async-task-support)
 20. [Building With Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
+21. [Automatically Load Gulp Plugins with gulp-load-plugins](http://andy-carter.com/blog/automatically-load-gulp-plugins-with-gulp-load-plugins)
