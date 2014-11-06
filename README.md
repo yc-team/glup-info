@@ -24,3 +24,4 @@ glup-info
 19. [gulpjs doc](https://github.com/gulpjs/gulp/blob/master/docs/API.md#async-task-support)
 20. [Building With Gulp](http://www.smashingmagazine.com/2014/06/11/building-with-gulp/)
 21. [Automatically Load Gulp Plugins with gulp-load-plugins](http://andy-carter.com/blog/automatically-load-gulp-plugins-with-gulp-load-plugins)
+22. [How To: Basic Tasks in Gulp.js](http://ilikekillnerds.com/2014/07/how-to-basic-tasks-in-gulp-js/)
